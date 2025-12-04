@@ -1,0 +1,45 @@
+The following is for your attention. I shall ask subsequent queries on this context.
+Use Case: We are using F5-TTS model to do the following Voice Cloning:
+Create a web/ mobile app (React FastAPI, MySQL and AI Model) where users can upload training voices. For each training voice, AI Model should learn the features like:
+•	Acoustic/ Physiological Features: Timbre (Voice Quality), Pitch (Fundamental Frequency F0), Loudness (Intensity)
+•	Linguistic/ Behavioural Features: Accent and Dialect, Tone (Prosody/Intonation), Speech Rate and Rhythm (Tempo and Cadence)
+Any User should be also upload texts of any length. Finally, a user can ask the app to generate speech output for the text in any of the training voices that the AI model has been trained in. The Model will infer text to speech and the speech should be in the exact Acoustic/Physiological and Linguistic/ Behavioural features of the particular training voice. So this use case has 2 components: text to speech and voice cloning. 
+High Priority considerations:
+•	Open-source/ Free Licence models
+•	Exact Voice Cloning
+•	Zero shot or minimal training
+•	Industry standard for AI covers and "deepfake" voice acting/ cloning
+•	English Language and common accents only
+Not considered now, may be in later use cases:
+•	Real-Time Voice Cloning
+•	Musical vocals
+•	Multilingual voice output
+
+The following are ready in vast.ai
+Storage: 1
+You have 1 volume available
+Local-27915352: Unverified; Size: 100 GB; Instances: 1
+Cost: $0.20/mo; Expires: January 1, 2026 9:55 AM
+Volume Information
+Name: Local-27915352; ID: 27915352; Machine ID: 45075; Type: Local Volume; Size: 100 GB; Cost: $0.20/mo; Location: Austria, AT
+Rented: November 16, 2025 7:55 PM; Expires: January 1, 2026 9:55 AM
+Instances using this volume: 1; Instance ID: 27915353
+Instances: 1
+1x RTX 3090: Unverified: 185.230.133.7: 18m: 1 mon 15d: <$0.001/hr
+Instance ID: 27915353; Host: 297758; Machine ID: 45075; Vol: Local-27915352
+Max CUDA: 13.0: 35.3 TFLOPS: VRAM 0/24.0GB: 805.2 GB/s
+DLPerf: 805.2 DLP/$/hr
+Network: 100 ports: 8.2 Mbps up: 32.9 Mbps down
+CPU: AMD EPYC 3151 4-Core Processor: 4.0/4 CPU: 0 / 32.0 GB
+Disk: BIWIN M350 1000GB: 2723.4 MB/s: 0.0 / 100.0 GB
+Motherboard: MJ11-EC1-OT: PCIE 3.0/8x: 6.3 GB/s
+Open: Access your Web UI at the port specified in your environment OPEN_BUTTON_PORT variable.
+GPU: 0% 19°C, CPU: 0.14%, Status: success, running vastai/pytorch_cuda-12.9.1-auto/jupyter
+
+Also, I can connect to the Vast.ai VM instance from my local windows VS Code terminal as root.
+---------------------------------------------------------------------------
+
+Is the virtual hardware enough for F5-TTS Voice Cloning?
+---------------------------------------------------------------------------
+
+Give us step by step detailed instructions on how to set up the F5-TTS Voice Cloning PoC in our Vast AI machine.
