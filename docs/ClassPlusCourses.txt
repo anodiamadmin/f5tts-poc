@@ -1,0 +1,38 @@
+Full Stack
+ - SQL/ DBMS & NoSQL
+ - Cyber Security
+ - Python - Rest API (FastAPI) / Java - Spring Boot
+ - JavaScript - ReactJS + Material UI (Web & Mobile)
+Duration: 12 weeks
+Price: 30K
+Discount: 90%
+
+AI/ML
+ - Python, Data Science & Gen AI
+ - Machine Learning
+ - ML Ops
+ - Deep Learning - PyTorch & TensorFlow/ Keras
+   - CNN
+   - NLP + Transformers
+Duration: 12 weeks
+Price: 30K
+Discount: 90%
+
+Cloud/ Infrastructure
+ - AWS/ GCP basics
+ - IaC/ Terraform
+ - Docker
+ - Kubernetes
+ - DevSecOps/ CICD
+Duration: 12 weeks
+Price: 30K
+Discount: 90%
+
+Business Studies
+ - Soft Skills & Communication
+ - Digital Marketing, Startup Ecosystem, Pitch Deck
+ - Agile Project Management
+ - Business Analysis
+Duration: 12 weeks
+Price: 30K
+Discount: 90%
